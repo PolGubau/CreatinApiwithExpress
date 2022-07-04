@@ -1,0 +1,27 @@
+{
+  "name": "creatingapiwithexpress",
+  "version": "1.0.0",
+  "description": "Just for testing, not a real project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gubaupol/CreatinApiwithExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gubaupol/CreatinApiwithExpress/issues"
+  },
+  "homepage": "https://github.com/gubaupol/CreatinApiwithExpress#readme",
+  "devDependencies": {
+    "nodemon": "2.0.18"
+  },
+  "dependencies": {
+    "express": "4.18.1"
+  }
+}
