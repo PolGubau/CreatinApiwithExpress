@@ -1,0 +1,21 @@
+PUT http://localhost:3000/api/quests/62c40ddbf24935e7e1f0ad10
+Content-Type: application/json
+
+
+{
+    "title": "¿Es esta la segunda pregunta desde la bd?",
+    "anwers": [
+      "si",
+      "no",
+      "tal vez"
+    ],
+    "solution": "si",
+    "creator": "pol",
+    "createdAt": "2022-08-05T10:09:31.780Z",
+    "likes": 9,
+    "incorrect": 0,
+}
+
+
+
+###

@@ -3,15 +3,10 @@ Content-Type: application/json
 
 
 {
-  "content": "This is my new note",
-  "important": true
-}
-###
-
-POST http://localhost:3000/api/notes 
-Content-Type: application/json
-
-
-{
-
+  "title": "¿Es esta la primera pregunta desde la REST?",
+  "anwers": ["si","no","tal vez"],
+  "solution": "si",
+  "creator": "pol",
+  "likes": 15,
+  "incorrect": 0,
 }
